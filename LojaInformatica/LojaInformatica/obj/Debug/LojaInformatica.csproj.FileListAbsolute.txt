@@ -1,0 +1,2 @@
+E:\Curso DS Etec 3º Módulo\BD - CIDADE\Projetos\Loja-Informatica\LojaInformatica\LojaInformatica\obj\Debug\LojaInformatica.csprojAssemblyReference.cache
+E:\Curso DS Etec 3º Módulo\BD - CIDADE\Projetos\Loja-Informatica\LojaInformatica\LojaInformatica\obj\Debug\LojaInformatica.csproj.CoreCompileInputs.cache
